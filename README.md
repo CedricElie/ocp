@@ -1,11 +1,10 @@
 # Obsidian notes
 # Installing openshift Local
 
-Hypervisor : VMWare Fusion
-Enable virtualization in BIOS
-Rocky8.9
-Installation type  : Virtualization Host (Minimal virtualization Host)
-IP: 192.168.59.173
+- Enable virtualization in BIOS
+- Rocky8.9
+- Installation type  : Virtualization Host (Minimal virtualization Host)
+- IP: 192.168.59.173
 
 create a user - jut and give him sudo rights
 ```
