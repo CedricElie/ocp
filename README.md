@@ -1,4 +1,4 @@
-#Onsidian notes
+# Obsidian notes
 # Installing openshift Local
 
 Hypervisor : VMWare Fusion
@@ -140,3 +140,6 @@ RAM Usage:       17.7GB of 32.68GB
 Disk Usage:      5.029GB of 11.21GB (Inside the CRC VM)
 Cache Usage:     25.89GB
 Cache Directory: /home/jut/.crc/cache
+```
+
+| Cedric K.
