@@ -142,4 +142,4 @@ Cache Usage:     25.89GB
 Cache Directory: /home/jut/.crc/cache
 ```
 
-| Cedric K.
+> Cedric K.
