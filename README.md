@@ -1,0 +1,2 @@
+# ocp
+Installing openshift local
